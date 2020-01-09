@@ -2,13 +2,11 @@
 
 This repo contains the source code and dataset for our accepted ICCV 2019 paper:
 
-Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation
-2019 IEEE international Conference on Computer Vision (ICCV 2019)
+Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation  
+2019 IEEE international Conference on Computer Vision (ICCV 2019)  [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_Semantic-Transferable_Weakly-Supervised_Endoscopic_Lesions_Segmentation_ICCV_2019_paper.pdf) [arXiv](https://arxiv.org/pdf/1908.07669.pdf) 
 
-[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_Semantic-Transferable_Weakly-Supervised_Endoscopic_Lesions_Segmentation_ICCV_2019_paper.pdf) [arXiv](https://arxiv.org/pdf/1908.07669.pdf) 
 
-## Overview of Lesions Transfer Model
-![](https://github.com/JiahuaDong/ICCV2019Publication-Semantic-Transferable-Weakly-Supervised-Endoscopic-Lesions-Segmentation/blob/master/Figs/LesionsTransferModel.jpg)
+![Overview of Lesions Transfer Model](https://github.com/JiahuaDong/ICCV2019Publication-Semantic-Transferable-Weakly-Supervised-Endoscopic-Lesions-Segmentation/blob/master/Figs/LesionsTransferModel.jpg)
 
 ## Introduction
 Weakly-supervised learning under image-level labels supervision has been widely applied to semantic segmentation of medical lesions regions. However, 1) most existing
@@ -40,15 +38,12 @@ Datasets and source code will be coming soon ...
 
 ## Citation
 If you find this project useful for your research, please kindly cite our paper:  
-
 @InProceedings{Dong_2019_ICCV,   
-
 author = {Dong, Jiahua and Cong, Yang and Sun, Gan and Hou, Dongdong},  
-
-title = {Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation},
-booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
-month = {October},
-year = {2019}
+title = {Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation},  
+booktitle = {The IEEE International Conference on Computer Vision (ICCV)},  
+month = {October},  
+year = {2019}  
 }
 
 
