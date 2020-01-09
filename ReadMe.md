@@ -46,7 +46,8 @@ Datasets and source code will be coming soon ...
 
 
 ## Citation
-If you find this project useful for your research, please kindly cite our paper:  
+If you find this project useful for your research, please kindly cite our paper:
+
 @InProceedings{Dong_2019_ICCV,   
 author = {Dong, Jiahua and Cong, Yang and Sun, Gan and Hou, Dongdong},  
 title = {Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation},  
