@@ -1,4 +1,4 @@
-#### Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation
+###Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation
 
 
 ICCV2019 Publication:
