@@ -2,8 +2,8 @@
 
 This repo contains the source code and dataset for our accepted ICCV 2019 paper:
 
-Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation  
-2019 IEEE international Conference on Computer Vision (ICCV 2019)  [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_Semantic-Transferable_Weakly-Supervised_Endoscopic_Lesions_Segmentation_ICCV_2019_paper.pdf) [arXiv](https://arxiv.org/pdf/1908.07669.pdf) 
+[Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_Semantic-Transferable_Weakly-Supervised_Endoscopic_Lesions_Segmentation_ICCV_2019_paper.pdf)  
+2019 IEEE international Conference on Computer Vision (ICCV 2019)    [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_Semantic-Transferable_Weakly-Supervised_Endoscopic_Lesions_Segmentation_ICCV_2019_paper.pdf) [arXiv](https://arxiv.org/pdf/1908.07669.pdf) 
 
 
 ![Overview of Lesions Transfer Model](https://github.com/JiahuaDong/ICCV2019Publication-Semantic-Transferable-Weakly-Supervised-Endoscopic-Lesions-Segmentation/blob/master/Figs/LesionsTransferModel.jpg)
@@ -46,7 +46,9 @@ month = {October},
 year = {2019}  
 }
 
-
+## Questions
+If you have any questions, please feel free to cantact Jiahua Dong or Yang Cong. 
+{dongjiahua@sia.cn, dongjiahua1995@gmail.com, congyang81@gmail.com}
 
 
 
