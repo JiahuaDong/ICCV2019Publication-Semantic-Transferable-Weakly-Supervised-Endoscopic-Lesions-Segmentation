@@ -56,7 +56,7 @@ year = {2019}
 }
 
 ## Questions
-If you have any questions, please feel free to cantact Jiahua Dong or Yang Cong.  
+If you have any questions, please feel free to contact Jiahua Dong or Yang Cong.  
 {dongjiahua@sia.cn, dongjiahua1995@gmail.com, congyang81@gmail.com}
 
 
