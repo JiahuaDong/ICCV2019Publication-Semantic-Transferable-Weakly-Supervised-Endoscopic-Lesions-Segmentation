@@ -7,7 +7,7 @@ Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation
 
 [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_Semantic-Transferable_Weakly-Supervised_Endoscopic_Lesions_Segmentation_ICCV_2019_paper.pdf) [arXiv](https://arxiv.org/pdf/1908.07669.pdf) 
 
-[Overview](https://raw.githubusercontent.com/JiahuaDong/ICCV2019Publication-Semantic-Transferable-Weakly-Supervised-Endoscopic-Lesions-Segmentation/master/Figs/LesionsTransferModel.jpg)
+[Overview](https://www.jianshu.com/p/fd1c260cd347)
 
 ## Introduction
 Weakly-supervised learning under image-level labels supervision has been widely applied to semantic segmentation of medical lesions regions. However, 1) most existing
