@@ -5,7 +5,7 @@ This repo contains the source code and dataset for our accepted ICCV 2019 paper:
 Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation
 2019 IEEE international Conference on Computer Vision (ICCV 2019)
 
-[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_Semantic-Transferable_Weakly Supervised_Endoscopic_Lesions_Segmentation_ICCV_2019_paper.pdf) [arXiv](https://arxiv.org/pdf/1908.07669.pdf) 
+[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_Semantic-Transferable_Weakly-Supervised_Endoscopic_Lesions_Segmentation_ICCV_2019_paper.pdf) [arXiv](https://arxiv.org/pdf/1908.07669.pdf) 
 
 ## Introduction
 Weakly-supervised learning under image-level labels supervision has been widely applied to semantic segmentation of medical lesions regions. However, 1) most existing
